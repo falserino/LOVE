@@ -12,9 +12,6 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-<<<<<<< HEAD:_config.yml
 plugins:
   - jekyll-default-layout
-=======
-theme: just-the-docs
->>>>>>> fd2cd24469cb84f148f83f005e8d342f28477c7d:_congig.yml
+
